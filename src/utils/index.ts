@@ -1,0 +1,2 @@
+export { formatNumberLocalized } from "./formatNumberLocalized";
+
