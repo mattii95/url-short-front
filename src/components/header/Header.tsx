@@ -8,9 +8,9 @@ export const Header = () => {
                 </div>
                 <div></div>
                 <div>
-                    {/* <button className="bg-orange-500 px-5 py-2 rounded-full hover:bg-orange-600 ">
+                    <button className="bg-orange-500 px-5 py-2 rounded-full hover:bg-orange-600 ">
                         SIGN IN
-                    </button> */}
+                    </button>
                 </div>
             </nav>
         </header>
